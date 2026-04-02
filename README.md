@@ -111,11 +111,15 @@ https://huggingface.co/spaces/loinguyen5704/diff-palm-app
 
 ### Install
 
+```
 pip install -r requirements.txt
+```
 
 ### Run
 
+```
 python app/app.py
+```
 
 ---
 
