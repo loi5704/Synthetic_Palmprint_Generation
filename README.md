@@ -31,11 +31,11 @@ https://huggingface.co/spaces/loinguyen5704/diff-palm-app
 
 ### 🔹 Feature 1: Palmprint Augmentation from Input Image
 
-- Input: 1 palmprint image\
+- Input: 1 palmprint image
 
 - Output: Multiple synthetic variations
 
-- Preserve main palm lines\
+- Preserve main palm lines
 
 - Simulate different environmental conditions
 
@@ -44,7 +44,7 @@ https://huggingface.co/spaces/loinguyen5704/diff-palm-app
 ### 🔹 Feature 2: Synthetic Dataset Generation by Identity
 
 - Input:
-  - Number of IDs\
+  - Number of IDs
   - Images per ID
 - Output:
   - Structured synthetic dataset
@@ -151,5 +151,6 @@ MIT
 
 ## 🔗 References
 
-https://arxiv.org/abs/2503.18312\
+https://arxiv.org/abs/2503.18312
+
 https://huggingface.co/spaces/loinguyen5704/diff-palm-app
