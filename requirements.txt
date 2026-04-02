@@ -1,0 +1,15 @@
+gradio==4.19.2
+huggingface_hub==0.19.4
+torch
+torchvision
+diffusers
+numpy<2.0.0
+opencv-python
+matplotlib
+Pillow
+accelerate
+mpi4py
+blobfile>=1.0.5
+tqdm
+shapely
+scikit-learn
