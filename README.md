@@ -76,6 +76,9 @@ User → Web UI → Inference → Diffusion Model → Output Image
 
 https://huggingface.co/spaces/loinguyen5704/diff-palm-app
 
+<p align="center">
+  <img src="./images/demo.jpg"/>
+</p>
 ---
 
 ## 📁 Project Structure
